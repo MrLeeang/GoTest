@@ -10,7 +10,19 @@ type User struct {
 	*Class
 }
 
+func (u *User) do() {
+	println(u.Name)
+	println("do")
+	u.Name = "bbbb"
+	println(u.Name)
+}
+
 func main() {
+	var user1 User
+	user1.Name = "fdsfsd"
+	user1.do()
+	println(user1.Name)
+
 	user := &User{}
 	user.Name = "user1"
 	class := &Class{}
