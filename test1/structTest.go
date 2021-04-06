@@ -7,6 +7,7 @@ type Class struct {
 }
 type User struct {
 	Name string
+	Age  int
 	*Class
 }
 
@@ -22,6 +23,9 @@ func main() {
 	user1.Name = "fdsfsd"
 	user1.do()
 	println(user1.Name)
+	if user1.Age != 0 {
+		println(user1.Age)
+	}
 
 	user := &User{}
 	user.Name = "user1"
