@@ -1,0 +1,50 @@
+# github.com/MrLeeang/tail v1.0.0
+## explicit
+github.com/MrLeeang/tail
+# github.com/Shopify/sarama v1.19.0
+## explicit
+github.com/Shopify/sarama
+# github.com/Shopify/toxiproxy v2.1.4+incompatible
+## explicit
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/eapache/go-resiliency v1.2.0
+## explicit
+github.com/eapache/go-resiliency/breaker
+# github.com/eapache/go-xerial-snappy v0.0.0-20180814174437-776d5712da21
+## explicit
+github.com/eapache/go-xerial-snappy
+# github.com/eapache/queue v1.1.0
+## explicit
+github.com/eapache/queue
+# github.com/frankban/quicktest v1.11.3
+## explicit
+# github.com/fsnotify/fsnotify v1.4.9
+## explicit
+# github.com/golang/snappy v0.0.3
+## explicit
+github.com/golang/snappy
+# github.com/hpcloud/tail v1.0.0
+## explicit
+github.com/hpcloud/tail/ratelimiter
+github.com/hpcloud/tail/util
+github.com/hpcloud/tail/watch
+github.com/hpcloud/tail/winfile
+# github.com/pierrec/lz4 v2.6.0+incompatible
+## explicit
+github.com/pierrec/lz4
+github.com/pierrec/lz4/internal/xxh32
+# github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475
+## explicit
+github.com/rcrowley/go-metrics
+# golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# gopkg.in/fsnotify.v1 v1.4.7
+## explicit
+gopkg.in/fsnotify.v1
+# gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7
+## explicit
+gopkg.in/tomb.v1

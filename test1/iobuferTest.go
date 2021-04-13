@@ -28,6 +28,7 @@ func main() {
 	// 	fmt.Println(string(byteData), n, err)
 	// }
 
+	// 比较低级，不建议使用
 	// for {
 	// 	data, flag, err := bReader.ReadLine()
 	// 	if err == io.EOF {
