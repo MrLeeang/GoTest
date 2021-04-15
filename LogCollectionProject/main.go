@@ -1,9 +1,13 @@
 package main
 
 import (
+	"context"
 	"fmt"
+	"time"
 
 	"github.com/Shopify/sarama"
+	elasticv7 "github.com/olivere/elastic/v7"
+	clientv3 "go.etcd.io/etcd/client/v3"
 )
 
 func Sender() {
@@ -61,10 +65,105 @@ func Consumer() {
 	}
 }
 
+var sample_key string = "123"
+
+func etcdClient() {
+	cli, err := clientv3.New(clientv3.Config{
+		Endpoints:   []string{"192.168.197.99:2379"},
+		DialTimeout: 25 * time.Second,
+	})
+	if err != nil {
+		panic(err.Error())
+	}
+	defer cli.Close()
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	// watch
+	go func() {
+		for {
+			fmt.Println("watch sample_key...")
+			watchCh := cli.Watch(context.Background(), "sample_key", clientv3.WithPrefix())
+			for wresp := range watchCh {
+				for _, evt := range wresp.Events {
+					fmt.Println(evt.Type.String())
+					fmt.Println(string(evt.Kv.Key))
+					fmt.Println(string(evt.Kv.Value))
+					sample_key = string(evt.Kv.Value)
+				}
+			}
+		}
+	}()
+
+	go func() {
+		for {
+			fmt.Println(sample_key)
+			time.Sleep(5 * time.Second)
+		}
+	}()
+
+	// _, err = cli.Put(ctx, "sample_key", "123")
+	// if err != nil {
+	// 	panic(err.Error())
+	// }
+
+	getresp, err := cli.Get(ctx, "sample_key")
+	if err != nil {
+		panic(err.Error())
+	}
+	for _, ev := range getresp.Kvs {
+		fmt.Println(string(ev.Key))
+		fmt.Println(string(ev.Value))
+	}
+
+	getresp, err = cli.Get(ctx, "sample_key", clientv3.WithPrefix())
+
+	for _, ev := range getresp.Kvs {
+		fmt.Println(string(ev.Key))
+		fmt.Println(string(ev.Value))
+	}
+}
+
+func esTest() {
+	esClient, err := elasticv7.NewClient(elasticv7.SetURL("http://192.168.197.1:9200"))
+	if err != nil {
+		panic(err.Error())
+	}
+	type Person struct {
+		Name    string `json:"name"`
+		Age     int    `json:"age"`
+		Married bool   `json:"married"`
+	}
+
+	p := &Person{}
+	p.Name = "LIHW"
+	p.Age = 18
+	p.Married = true
+
+	// 插入数据
+	/*
+			curl -H "ContentType:application/json" -X POST 127.0.0.1:9200/user/person -d '
+		{
+			"name": "dsb",
+			"age": 9000,
+			"married": true
+		}'
+	*/
+	put1, err := esClient.Index().Index("users").Type("person").BodyJson(p).Do(context.Background())
+	if err != nil {
+		panic(err.Error())
+	}
+	fmt.Println(put1.Id)
+	fmt.Println(put1.Index)
+	fmt.Println(put1.Type)
+}
+
 func main() {
 	// t, err := tail.TailFile("/var/log/nginx.log", tail.Config{Follow: true})
 	// for line := range t.Lines {
 	// 	fmt.Println(line.Text)
 	// }
-	x := []int{1, 2, 3, 4, 5, 6}
+	esTest()
+
 }
