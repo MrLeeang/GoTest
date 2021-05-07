@@ -11,14 +11,14 @@ func execCMD(name string, arg ...string) (bool, string) {
 
 	cmd := exec.Command(name, arg...)
 
-	whoami, err := cmd.Output()
+	ret, err := cmd.Output()
 
 	if err != nil {
 		fmt.Println(err)
 		code = false
 	}
 
-	return code, string(whoami)
+	return code, string(ret)
 }
 
 func main() {
