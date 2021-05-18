@@ -1,0 +1,122 @@
+2021/05/07 17:06:25 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:79	fdsfsdfdsfdsfg
+2021/05/07 17:07:51 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:79	fdsfsdfdsfdsfg
+2021/05/07 17:07:57 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:79	fdsfsdfdsfdsfg
+2021/05/07 17:21:30 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:79	fdsfsdfdsfdsfg
+2021/05/07 17:21:35 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:79	fdsfsdfdsfdsfg
+2021/05/07 17:21:40 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:79	fdsfsdfdsfdsfg
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:86	fdsfsdfdsfdsfg
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	=ExitCode=00000001
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ALLUSERSPROFILE=C:\ProgramData
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	APPDATA=C:\Users\Administrator\AppData\Roaming
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_18388_VCFBJLVQKXZGDJVK
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	CommonProgramFiles=C:\Program Files\Common Files
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	CommonProgramW6432=C:\Program Files\Common Files
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	COMPUTERNAME=MS-YFMUWRNXLZNA
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ComSpec=C:\Windows\system32\cmd.exe
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	DriverData=C:\Windows\System32\Drivers\DriverData
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	FPS_BROWSER_USER_PROFILE_STRING=Default
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	GoLand=D:\Software\JetBrains\GoLand 2020.2.3\bin;
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	GOPATH=D:\GOPATH
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	HOMEDRIVE=C:
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	HOMEPATH=\Users\Administrator
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	LOGONSERVER=\\MS-YFMUWRNXLZNA
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	NUMBER_OF_PROCESSORS=4
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	OneDrive=C:\Users\Administrator\OneDrive
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	OS=Windows_NT
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	Path=D:\Software\NetSarang\Xshell 6\;D:\Software\NetSarang\Xftp 6\;D:\Python27\;D:\Python27\Scripts;D:\Python38\;D:\Python38\Scripts\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\nodejs\;d:\Software\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Go\bin;D:\GOPATH\bin;D:\Software\Tesseract-OCR;C:\Program Files (x86)\HP\Common\HPDestPlgIn\;C:\Program Files (x86)\HP\IdrsOCR_15.3.1129.0\;D:\Software\TortoiseSVN\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\Software\JetBrains\PyCharm Community Edition 2020.1.2\bin;;d:\Software\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;;D:\JetBrains\PyCharm 2019.2.6\bin;;D:\Software\JetBrains\GoLand 2020.2.3\bin;;C:\Program Files (x86)\HP\Common\HPDestPlgIn\
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROCESSOR_ARCHITECTURE=AMD64
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROCESSOR_LEVEL=6
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROCESSOR_REVISION=4e03
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ProgramData=C:\ProgramData
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ProgramFiles=C:\Program Files
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ProgramFiles(x86)=C:\Program Files (x86)
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ProgramW6432=C:\Program Files
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROMPT=$P$G
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PUBLIC=C:\Users\Public
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PyCharm=D:\JetBrains\PyCharm 2019.2.6\bin;
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PyCharm Community Edition=D:\Software\JetBrains\PyCharm Community Edition 2020.1.2\bin;
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	SESSIONNAME=Console
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	SystemDrive=C:
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	SystemRoot=C:\Windows
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	TEMP=C:\Users\ADMINI~1\AppData\Local\Temp
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	TMP=C:\Users\ADMINI~1\AppData\Local\Temp
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	USERDOMAIN=MS-YFMUWRNXLZNA
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	USERDOMAIN_ROAMINGPROFILE=MS-YFMUWRNXLZNA
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	USERNAME=Administrator
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	USERPROFILE=C:\Users\Administrator
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	windir=C:\Windows
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	WXDRIVE_START_ARGS=--wxdrive-setting=0 --disable-gpu --disable-software-rasterizer --enable-features=NetworkServiceInProcess
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	TERM_PROGRAM=vscode
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	TERM_PROGRAM_VERSION=1.56.0
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	LANG=zh_CN.UTF-8
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	COLORTERM=truecolor
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-fc793d81ad-sock
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	GIT_ASKPASS=d:\Software\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	VSCODE_GIT_ASKPASS_NODE=D:\Software\Microsoft VS Code\Code.exe
+2021/05/07 20:23:05 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	VSCODE_GIT_ASKPASS_MAIN=d:\Software\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:86	fdsfsdfdsfdsfg
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	=ExitCode=00000000
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ALLUSERSPROFILE=C:\ProgramData
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	APPDATA=C:\Users\Administrator\AppData\Roaming
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_18388_VCFBJLVQKXZGDJVK
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	CommonProgramFiles=C:\Program Files\Common Files
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	CommonProgramW6432=C:\Program Files\Common Files
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	COMPUTERNAME=MS-YFMUWRNXLZNA
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ComSpec=C:\Windows\system32\cmd.exe
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	DriverData=C:\Windows\System32\Drivers\DriverData
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	FPS_BROWSER_USER_PROFILE_STRING=Default
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	GoLand=D:\Software\JetBrains\GoLand 2020.2.3\bin;
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	GOPATH=D:\GOPATH
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	HOMEDRIVE=C:
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	HOMEPATH=\Users\Administrator
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	LOCALAPPDATA=C:\Users\Administrator\AppData\Local
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	LOGONSERVER=\\MS-YFMUWRNXLZNA
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	NUMBER_OF_PROCESSORS=4
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	OneDrive=C:\Users\Administrator\OneDrive
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	OS=Windows_NT
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	Path=D:\Software\NetSarang\Xshell 6\;D:\Software\NetSarang\Xftp 6\;D:\Python27\;D:\Python27\Scripts;D:\Python38\;D:\Python38\Scripts\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\nodejs\;d:\Software\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Go\bin;D:\GOPATH\bin;D:\Software\Tesseract-OCR;C:\Program Files (x86)\HP\Common\HPDestPlgIn\;C:\Program Files (x86)\HP\IdrsOCR_15.3.1129.0\;D:\Software\TortoiseSVN\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\Software\JetBrains\PyCharm Community Edition 2020.1.2\bin;;d:\Software\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;;D:\JetBrains\PyCharm 2019.2.6\bin;;D:\Software\JetBrains\GoLand 2020.2.3\bin;;C:\Program Files (x86)\HP\Common\HPDestPlgIn\
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROCESSOR_ARCHITECTURE=AMD64
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROCESSOR_LEVEL=6
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROCESSOR_REVISION=4e03
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ProgramData=C:\ProgramData
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ProgramFiles=C:\Program Files
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ProgramFiles(x86)=C:\Program Files (x86)
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	ProgramW6432=C:\Program Files
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PROMPT=$P$G
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PUBLIC=C:\Users\Public
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PyCharm=D:\JetBrains\PyCharm 2019.2.6\bin;
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	PyCharm Community Edition=D:\Software\JetBrains\PyCharm Community Edition 2020.1.2\bin;
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	SESSIONNAME=Console
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	SystemDrive=C:
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	SystemRoot=C:\Windows
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	TEMP=C:\Users\ADMINI~1\AppData\Local\Temp
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	TMP=C:\Users\ADMINI~1\AppData\Local\Temp
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	USERDOMAIN=MS-YFMUWRNXLZNA
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	USERDOMAIN_ROAMINGPROFILE=MS-YFMUWRNXLZNA
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	USERNAME=Administrator
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	USERPROFILE=C:\Users\Administrator
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	windir=C:\Windows
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	WXDRIVE_START_ARGS=--wxdrive-setting=0 --disable-gpu --disable-software-rasterizer --enable-features=NetworkServiceInProcess
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	TERM_PROGRAM=vscode
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	TERM_PROGRAM_VERSION=1.56.0
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	LANG=zh_CN.UTF-8
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	COLORTERM=truecolor
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-fc793d81ad-sock
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	GIT_ASKPASS=d:\Software\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	VSCODE_GIT_ASKPASS_NODE=D:\Software\Microsoft VS Code\Code.exe
+2021/05/07 20:24:26 [INFO] D:/GOPATH/src/GoTest/custflannel/main.go:90	VSCODE_GIT_ASKPASS_MAIN=d:\Software\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
